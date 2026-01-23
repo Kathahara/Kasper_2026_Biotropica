@@ -9,9 +9,10 @@ Sunda clouded leopard conservation requires understanding key species traits. Us
 
 ## Data
 
-
+ind_records.csv: records of individual Sunda clouded leopards
+ind_table.csv: record summary of individual Sunda clouded leopards incl. respective minimum residence times
 
 ## Scripts 
 
-multi_species_model.R: fit the multi-species Royle-Nichols occupancy model in camtrapR and estimate occupancy, species richness and PAO.
+Lifespan.R: tests for sex-specific record bias in individual minimum residence timelines, and record plots
 
