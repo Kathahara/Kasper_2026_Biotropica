@@ -9,11 +9,10 @@ Sunda clouded leopard conservation requires understanding key species traits. Us
 
 ## Data
 
-ind_records.csv: records of individual Sunda clouded leopards
-
-ind_table.csv: record summary of individual Sunda clouded leopards incl. respective minimum residence times
+* ind_records.csv: records of individual Sunda clouded leopards
+* ind_table.csv: record summary of individual Sunda clouded leopards incl. respective minimum residence times
 
 ## Scripts 
 
-Lifespan.R: tests for sex-specific record bias in individual minimum residence timelines, and record plots
+* Lifespan.R: tests for sex-specific record bias in individual minimum residence timelines, and record plots
 
