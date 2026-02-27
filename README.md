@@ -1,7 +1,7 @@
 # Kasper et al. (2026) *Biotropica*
 
 > **Katharina Kasper**, Thye Lim Tee, Roshan Guharajan, Azlan Mohamed, Seth T. Wong, Jürgen Niedballa, Jesse F. Abrams, Johnny Kissing, Hiromitsu Samejima, Rahel Sollmann, Andreas Wilting, & **Wai-Ming Wong** (2026): Estimating Sunda clouded leopard lifespans from minimum residence times via long-term photo-tracking. 
-*Biotropica* PAGENUMBERS. DOI: https://doi.org/10.5281/zenodo.18388424
+*Biotropica* 58(2), e70169. DOI: https://doi.org/10.5281/zenodo.18388424
 
 ## Abstract
 
@@ -15,4 +15,3 @@ Sunda clouded leopard conservation requires understanding key species traits. Us
 ## Scripts 
 
 * Lifespan.R: tests for sex-specific record bias in individual minimum residence timelines, and record plots
-
