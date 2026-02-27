@@ -1,7 +1,7 @@
 # Kasper et al. (2026) *Biotropica*
 
 > **Katharina Kasper**, Thye Lim Tee, Roshan Guharajan, Azlan Mohamed, Seth T. Wong, Jürgen Niedballa, Jesse F. Abrams, Johnny Kissing, Hiromitsu Samejima, Rahel Sollmann, Andreas Wilting, & **Wai-Ming Wong** (2026): Estimating Sunda clouded leopard lifespans from minimum residence times via long-term photo-tracking. 
-*Biotropica* PAGENUMBERS. DOI: [doi-goes-here](https://doi.org/doi-goes-here)
+*Biotropica* PAGENUMBERS. DOI: https://doi.org/10.5281/zenodo.18388424
 
 ## Abstract
 
